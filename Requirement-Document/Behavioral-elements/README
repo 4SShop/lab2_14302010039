@@ -1,1 +1,3 @@
-
+Behavioral Element：
+包含state diagram 和 sequence diagram
+主要针对借书、还书、办证、更新和报废图书信息、系统参数修改等用况进行建模
