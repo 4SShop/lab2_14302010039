@@ -1,7 +1,0 @@
-April 30th:
-Outline:
-1、根据需求的分析获取，和跟客户讨论的反馈结果，我们进行了汇总式的讨论，描述每个use case的具体流程。
-2、确定画图的分工，将整个需求的模型分为behaviourial element、class-based element、Flow-oriented element、Scenario-based element。魏子耘、林航宇、梁旭、朱潇分别处理相应部分
-3、我们通过CRC建模的方法，确定整个需求中有多少个类，及每个类的collaboration和responsibility。
-
-具体会议记录见Conversation Record
