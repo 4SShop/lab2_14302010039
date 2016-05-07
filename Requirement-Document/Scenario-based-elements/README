@@ -1,1 +1,5 @@
-
+Scenario-based Elements
+基于场景的建模。
+其中包含：
+UseCase:对整个图书馆管理系统的用况图建模。
+Activity：对于上述用况图，针对每个用况，进行泳道图活动细化建模。
