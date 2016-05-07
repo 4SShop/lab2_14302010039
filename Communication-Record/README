@@ -1,1 +1,7 @@
+Communication-Record：谈话记录、调查问卷结果、电子邮件。
 
+结构说明：
+AudioClip：其中包含了与客户交谈过程中的录音记录。
+Conversation：与客户交谈过程的会议记录和组员讨论时的会议记录。
+E-mail：与客户的e-mail交谈记录。
+Questionnaire：客户的问卷调查结果。
